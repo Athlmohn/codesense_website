@@ -14,6 +14,7 @@ function LayoutRoutes() {
        <Header/>
         <Routes>
             <Route path='/' element={<Home/>}/>
+            <Route path='/codesense_website' element={<Home/>}/>
             <Route path='/services' element={<Plans/>}/>
             <Route path='/courses' element={<Courses/>}/>
             <Route path='/about' element={<AboutUs/>}/>
