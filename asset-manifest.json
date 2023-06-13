@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/codesense_website/static/css/main.355d07ae.css",
+    "main.js": "/codesense_website/static/js/main.6397d94d.js",
+    "static/js/787.e403dcb9.chunk.js": "/codesense_website/static/js/787.e403dcb9.chunk.js",
+    "static/media/tc.png": "/codesense_website/static/media/tc.66e132f330fd312fe176.png",
+    "static/media/meta.jpeg": "/codesense_website/static/media/meta.7e3f88a1b4640d37c922.jpeg",
+    "static/media/miya.jpg": "/codesense_website/static/media/miya.cfeb40c12ffb25457bb8.jpg",
+    "static/media/footer.png": "/codesense_website/static/media/footer.c784afd004b3e6047ce1.png",
+    "static/media/headlogo.png": "/codesense_website/static/media/headlogo.9a19d2b544b03eb5b999.png",
+    "static/media/sd.png": "/codesense_website/static/media/sd.0897abc962b9843e2ae7.png",
+    "static/media/dg.png": "/codesense_website/static/media/dg.9624ed4cc0ac7f4e8024.png",
+    "static/media/ai.png": "/codesense_website/static/media/ai.0b1f4f6f49e69c33509f.png",
+    "index.html": "/codesense_website/index.html",
+    "main.355d07ae.css.map": "/codesense_website/static/css/main.355d07ae.css.map",
+    "main.6397d94d.js.map": "/codesense_website/static/js/main.6397d94d.js.map",
+    "787.e403dcb9.chunk.js.map": "/codesense_website/static/js/787.e403dcb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.355d07ae.css",
+    "static/js/main.6397d94d.js"
+  ]
+}
