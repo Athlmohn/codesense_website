@@ -16,8 +16,8 @@ const handleClick =()=>{
    <section className='container'>
        <div className="home-container">
         <div className="home-content">
-            <h2 className='section-title'>Learn Everything For Free !</h2> 
-            <p>Master Trending Technologies with Techflix AI,Invest Your Time and Return Skills</p>  
+            <h2 className='section-title'> Transforming Tech Talent</h2> 
+            <p>Unlock the Power of Technology with CodeSense: Ignite Your Mind, Master the Digital World!</p>  
             <div className="home-btns">
             <button className='register-btn' onClick={handleClick}>Get Started</button>  
             <button className='register-btn' onClick={handleClick}>Watch Now!</button>  
