@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/codesense_website/static/css/main.355d07ae.css",
-    "main.js": "/codesense_website/static/js/main.6397d94d.js",
+    "main.js": "/codesense_website/static/js/main.e1f65092.js",
     "static/js/787.e403dcb9.chunk.js": "/codesense_website/static/js/787.e403dcb9.chunk.js",
     "static/media/tc.png": "/codesense_website/static/media/tc.66e132f330fd312fe176.png",
     "static/media/meta.jpeg": "/codesense_website/static/media/meta.7e3f88a1b4640d37c922.jpeg",
@@ -13,11 +13,11 @@
     "static/media/ai.png": "/codesense_website/static/media/ai.0b1f4f6f49e69c33509f.png",
     "index.html": "/codesense_website/index.html",
     "main.355d07ae.css.map": "/codesense_website/static/css/main.355d07ae.css.map",
-    "main.6397d94d.js.map": "/codesense_website/static/js/main.6397d94d.js.map",
+    "main.e1f65092.js.map": "/codesense_website/static/js/main.e1f65092.js.map",
     "787.e403dcb9.chunk.js.map": "/codesense_website/static/js/787.e403dcb9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.355d07ae.css",
-    "static/js/main.6397d94d.js"
+    "static/js/main.e1f65092.js"
   ]
 }
